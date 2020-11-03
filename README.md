@@ -1,8 +1,8 @@
-# Web scraping sobre las elecciones de Estados Unidos.
+# Web scraping sobre las elecciones de los Estados Unidos.
 
 Las elecciones de Estados Unidos es un evento importante a nivel mundial para este año 2020 porque está en juego el futuro de las politicas economicas y sociales de unos de los paises más poderosos a nivel mundial. 
 
-Teniendo en cuenta que es una de los paises más poblados, más de 300 millones habitantes, y que cada estado tiene sus propias reglas para las votaciones entonces la logistica que envuelve todo este evento democratico se convierte en una tema interesante de analizar. Por lo tanto, este trabajo esta diseñado en hacer el web scrrapiing a la pagina XXXXX que tiene una recopilacion de información sobre las votaciones por cada estado, tal como,  cuantas personas son las aptas para votar, si tiene o no el registro online, a que horas se habilitan las urnas entre otras. 
+Teniendo en cuenta que es una de los paises más poblados, más de 300 millones habitantes, y que cada estado tiene sus propias reglas para las votaciones entonces la logistica que envuelve todo este evento democratico se convierte en una tema interesante de analizar. Por lo tanto, este trabajo esta diseñado en hacer el web scrrapiing a la pagina XXXXX que tiene una recopilacion de información cuantas personas son las aptas para votar por ejemplo, cuantas personas son aptas para votar,  si tiene o no el registro online, a que horas se habilitan las urnas entre otras. 
 
 es interestante conocer comoUna de los aspectos más interesante para analizar en estas elecciones es la medición de la 
 
@@ -19,7 +19,7 @@ Este trabajo tiene como objetivo hacer el web scraping a la pagina (sss)[https:/
 Este el repositorio para el proyecto 1 de tipologia y ciclo de vida de datos. Este proyecto tiene el proposito de realizar web scraping con el objectivo de recopliar información de las elecciones presidenciales de Estados Unidos
 
 
-https://docs.github.com/es/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes
+[wee](https://docs.github.com/es/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes)
 
 
 
