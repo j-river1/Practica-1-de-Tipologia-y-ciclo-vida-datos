@@ -22,6 +22,6 @@ La organización de las carpetas esta diseñada de la siguiente manera:
 # Recursos
 
 * (Subirats, Laia) Web scraping. 
-* [Ballotpedia] (https://ballotpedia.org/Ballotpedia:About)
-* [Coolab] (https://ballotpedia.org/Ballotpedia:About)
+* [Ballotpedia](https://ballotpedia.org/Ballotpedia:About)
+* [Coolab](https://ballotpedia.org/Ballotpedia:About)
 
