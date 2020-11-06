@@ -20,7 +20,8 @@ La organización de las carpetas esta diseñada de la siguiente manera:
 # Miembros del equipo
 
 # Recursos
-
+* Masip, D. El lenguaje Python. Editorial UOC.
+* Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 * (Subirats, Laia) Web scraping. 
 * [Ballotpedia](https://ballotpedia.org/Ballotpedia:About)
 * [Coolab](https://ballotpedia.org/Ballotpedia:About)
