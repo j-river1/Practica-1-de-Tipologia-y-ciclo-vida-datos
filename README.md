@@ -23,6 +23,7 @@ La organización de las carpetas esta diseñada de la siguiente manera:
 * **pdf**. Está el documento final del curso de tipología y ciclo de vida de los datos.
 * **dataset**. En esta carpeta esta el data set final con los datos recopilados.
 * **LICENSE**. En esta carpeta está la licencia CC BYNC-SA 4.0 utilizada para el dataset
+* **Zenodo** El data set también esta en zenodo,  lo puede descargar [aqui] (https://zenodo.org/record/4263409#.X6mjr2gzbyQ)
 
 # Miembros del equipo
 
@@ -32,7 +33,7 @@ La organización de las carpetas esta diseñada de la siguiente manera:
 * (Subirats, Laia) Web scraping. 
 * [Ballotpedia](https://ballotpedia.org/Ballotpedia:About)
 * [Coolab](https://ballotpedia.org/Ballotpedia:About)
-* https://tv6.news/who-has-won-the-2020-us-elections-map-and-electoral-votes-3/ 
+* La imagen es tomada de https://tv6.news/who-has-won-the-2020-us-elections-map-and-electoral-votes-3/ 
 
 
 
