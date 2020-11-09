@@ -16,6 +16,7 @@ La organización de las carpetas esta diseñada de la siguiente manera:
 * **src**. Está el codigo de phyton utilizado en la practica y se utilizo el servicio de Coolab.
 * **pdf**. Está el documento final del curso de tipología y ciclo de vida de los datos.
 * **dataset**. En esta carpeta esta el data set final con los datos recopilados.
+* **LICENSE**. En esta carpeta está la licencia CC BYNC-SA 4.0 utilizada para el dataset
 
 # Miembros del equipo
 
