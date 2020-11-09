@@ -1,8 +1,24 @@
 # Web scraping sobre las elecciones de los Estados Unidos :tv: :newspaper:.
 
+
+
+<img src="https://tv6.news/wp-content/uploads/2020/11/Who-has-won-the-2020-US-elections-MAP-and-ELECTORAL.jpg" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
+
+
+
+
 Las elecciones de Estados Unidos es un evento importante a nivel mundial para este año 2020 :mask: porque está en juego el futuro de las politicas economicas y sociales de unos de los paises más poderosos a nivel mundial. 
 
 <img src="https://ichef.bbci.co.uk/news/240/cpsprodpb/1340C/production/_114606887_index_promo_simple_guide_976_v7.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
+tdb-featured-image-bg
+
+tdb-featured-image-bg
+
+
+.tdi_20_9fa .tdb-featured-image-bg{background:url('https://tv6.news/wp-content/uploads/2020/11/Who-has-won-the-2020-US-elections-MAP-and-ELECTORAL.jpg');background-size:cover;background-repeat:no-repeat;background-position:center 50%;padding-bottom:60%;}html:not(.td-md-is-ios):not(.td-md-is-android)  .tdi_20_9fa .tdb-featured-image-bg{background-attachment:scroll;}.tdi_20_9fa .tdb-featured-image-bg:hover:before{opacity:0;}
+
+
+
 
 
 Teniendo en cuenta que es una de los paises más poblados, más de 300 millones habitantes, y que cada estado tiene sus propias reglas para las votaciones entonces la logistica que envuelve todo este evento democratico se convierte en una tema interesante de analizar. Por lo tanto, este trabajo esta diseñado en hacer el web scrapping del sitio web [Ballotpedia](https://ballotpedia.org/Voter_registration) que tiene una basta información sobre las elecciones en cada estado. En particular, la información que se extrae es sobre las reglamentos y/o politicas que tiene cada estado para que un ciudadano pueda votar, por ejemplo si necesita mostrar su ID para la votación, las fechas permitidas para votar o si tiene o no registro online. Con esta base de datos se pretende ofrecer la información necesario y suficiente para que cualquier ciudadano pueda consultarla y ejercer su derecho al voto. Además, este trabajo es una practica de la asignatura tipología y ciclo de vida de los datos :pencil:.
